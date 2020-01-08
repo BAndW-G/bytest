@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../GUI/.idea/GUI.iml" filepath="$PROJECT_DIR$/../../GUI/.idea/GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../aa/.idea/aa.iml" filepath="$PROJECT_DIR$/../../aa/.idea/aa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../.idea/by_outo.iml" filepath="$PROJECT_DIR$/../.idea/by_outo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/case.iml" filepath="$PROJECT_DIR$/.idea/case.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../pa/.idea/pa.iml" filepath="$PROJECT_DIR$/../../pa/.idea/pa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../pytest/.idea/pt.iml" filepath="$PROJECT_DIR$/../../pytest/.idea/pt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../pyt/.idea/pyt.iml" filepath="$PROJECT_DIR$/../../pyt/.idea/pyt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../untitled/.idea/untitled.iml" filepath="$PROJECT_DIR$/../../untitled/.idea/untitled.iml" />
+    </modules>
+  </component>
+</project>
